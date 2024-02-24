@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+    {
+    "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lisa Kailai Han",
+            "title": "Stock market today: Live updates - CNBC",
+            "description": "U.S. stocks hovered near the flatline early Monday following a record-setting week for the S&P 500.",
+            "url": "https://www.cnbc.com/2024/02/11/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107369689-17072394792024-02-06t163449z_458224016_rc22x5a9r7f9_rtrmadp_0_usa-stocks.jpeg?v=1707239656&w=1920&h=1080",
+            "publishedAt": "2024-02-12T14:30:00Z",
+            "content": "U.S. stocks hovered near the flatline early Monday following a record-setting week for the S&amp;P 500. Investors also looked ahead to key inflation data and earnings.\r\nThe broad market index fell ma… [+1969 chars]"
+        },
+    {
+    "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters.com",
+            "title": "Israel frees two hostages, Gaza officials say airstrikes kill 67 - Reuters.com",
+            "description": null,
+            "url": "https://www.reuters.com/world/middle-east/israel-strikes-rafah-refugee-camp-22-killed-local-health-officials-say-2024-02-12/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-12T14:14:56Z",
+            "content": null
+        },
+    {
+    "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Simone McCarthy",
+            "title": "NATO chief says Trump’s comments on abandoning alliance endangers US and European troops - CNN",
+            "description": "NATO chief Jens Stoltenberg has hit back against “any suggestion” countries within the alliance would not defend one another after former US President Donald Trump said he would not abide by the collective defense clause at the heart of the alliance if reelec…",
+            "url": "https://www.cnn.com/2024/02/12/europe/trump-comments-reaction-nato-stoltenberg-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24038574534472.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-12T14:09:00Z",
+            "content": "NATO chief Jens Stoltenberg has hit back against any suggestion countries within the alliance would not defend one another after former US President Donald Trump said he would not abide by the collec… [+6804 chars]"
+        },
+    {
+    "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Man arrested in Canada after bodies of 3 children found burned in car, 2 women found dead in different locations - CBS News",
+            "description": "A woman's body was first found along a road. Then the bodies of three children were found in a burning car. Investigators later found the body of a second woman in a home.",
+            "url": "https://www.cbsnews.com/news/deaths-3-children-2-women-manitoba-canada-man-arrested/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/12/7d1cec06-5382-46b1-aadf-894f2349d141/thumbnail/1200x630g6/f413aa0e3f8c3dd4006caa0b3229dbcf/rmcp-1500x500.jpg?v=39487f160c45192867463e7cb2b51dad",
+            "publishedAt": "2024-02-12T14:01:00Z",
+            "content": "A 29-year-old man was arrested Sunday in Canada after the bodies of three children, burned in a car, and two women were found dead in different locations, police said.\r\n\"It is believed that the adult… [+1122 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Kenya: Marathon world record holder Kelvin Kiptum dies in road accident | BBC News - BBC News",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=IV4XNE_zVNA",
+            "urlToImage": null,
+            "publishedAt": "2024-02-12T13:00:15Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Florence Ion",
+            "title": "iPhone 16: Everything We Know So Far - Gizmodo",
+            "description": "The sizing may differ between all four models, and Apple may bump up the cores for gamers.",
+            "url": "https://gizmodo.com/apple-iphone-16-1851244717",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/303bac66e67e0d9543962e61e8d69168.jpg",
+            "publishedAt": "2024-02-12T13:00:00Z",
+            "content": "You probably upgraded to the iPhone 15 over the holiday season. But now that Samsung has just finished its flagship launch fanfare for the Galaxy S24 series, its time to start talking about whats nex… [+5657 chars]"
+        },
+    {
+    "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jack Bantock",
+            "title": "Nick Taylor wins raucous WM Phoenix Open in playoff after crowd trouble bedevils tournament - CNN",
+            "description": "Canada’s Nick Taylor completed a dramatic late fightback to win the WM Phoenix Open in a playoff on Sunday, after crowd trouble marred the notoriously raucous PGA Tour event at TPC Scottsdale in Arizona.",
+            "url": "https://www.cnn.com/2024/02/12/sport/nick-taylor-phoenix-open-crowd-trouble-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2003911003.jpeg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-02-12T12:30:00Z",
+            "content": "Canadas Nick Taylor completed a dramatic late fightback to win the WM Phoenix Open in a playoff on Sunday, after crowd trouble marred the notoriously raucous PGA Tour event at TPC Scottsdale in Arizo… [+4356 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sarah Whitten, Sara Salinas, Jake Piazza",
+            "title": "Super Bowl 2024 ads recap: DoorDash, DunKings, Beyoncé and the most-talked about commercials - CNBC",
+            "description": "The Super Bowl is advertising's biggest stage, with companies jockeying for a limited supply of spots to get their products in front of millions of consumers.",
+            "url": "https://www.cnbc.com/2024/02/11/super-bowl-ads-2024-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107372174-17077399942024-02-12t044423z_706713281_up1ek2c0d342h_rtrmadp_0_football-nfl-superbowl.jpeg?v=1707740079&w=1920&h=1080",
+            "publishedAt": "2024-02-12T12:15:00Z",
+            "content": "Former President Donald Trump took some shots hours before the game at pop superstar Taylor Swift and her Kansas City Chiefs player boyfriend Travis Kelce, who have become the focus of a bizarre elec… [+1551 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+    {
+    "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Before Ingenuity ever landed on Mars, scientists almost managed to kill it - Ars Technica",
+            "description": "\"The Mars 2020 science team wasn't interested in Ingenuity.\"",
+            "url": "https://arstechnica.com/space/2024/02/before-ingenuity-ever-landed-on-mars-scientists-almost-managed-to-kill-it/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/53510862189_fb73b23aa4_k-760x380.jpg",
+            "publishedAt": "2024-02-12T11:45:24Z",
+            "content": "Enlarge/ This is the final photo that Perseverance took of Ingenuity before moving away from its final resting spot. \r\n28\r\nMiMi Aung could barely contain her excitement as she drove up Oak Grove Driv… [+4027 chars]"
+        },
+    {
+    "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Michael Middlehurst-Schwartz",
+            "title": "NFL mock draft 2024: Chiefs get Patrick Mahomes a major weapon at wide receiver - USA TODAY",
+            "description": "In our post-Super Bowl NFL mock draft, the champion Chiefs set Patrick Mahomes up with a big-play threat at wide receiver.",
+            "url": "https://www.usatoday.com/story/sports/nfl/draft/2024/02/12/nfl-mock-draft-2024-kansas-city-chiefs-receiver/72566758007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/02/12/USAT/72566819007-usp-nfl-super-bowl-lviii-san-francisco-49-ers-at-k-2.jpg?crop=3216,1809,x177,y387&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2024-02-12T11:37:59Z",
+            "content": "With Super Bowl 58 over, it's officially NFL mock draft season.\r\nOr maybe it already was. After all, this is USA TODAY Sports' fifth projection since midseason.\r\nTo be fair, though, there is still pl… [+13489 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "CarScoops"
+            },
+            "author": "Thanos Pappas",
+            "title": "Aston Martin Unveils Sexy Vantage GT3 Racer Alongside AMR24 F1 Single-Seater - CarScoops",
+            "description": "The new Vantage-based racecar inherits the redesigned face of the road-going model alongside suspension and aerodynamic upgrades",
+            "url": "https://www.carscoops.com/2024/02/aston-martin-unveils-sexy-vantage-gt4-racer-alongside-amr24-f1-single-seater/",
+            "urlToImage": "https://www.carscoops.com/wp-content/uploads/2024/02/Aston-Martin-Vantage-GT3-And-AMR24-F1-main.jpg",
+            "publishedAt": "2024-02-12T11:29:52Z",
+            "content": "The new Vantage-based racecar inherits the redesigned face of the road-going model alongside suspension and aerodynamic upgrades \r\nAston Martin is having a busy day, with the debut of the gorgeous ne… [+2873 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Tesla Cuts Model Y Prices For A Limited Time — For Now - Investor's Business Daily",
+            "description": null,
+            "url": "https://www.investors.com/news/tesla-cuts-model-y-prices-for-a-limited-time-at-least-for-now/",
+            "urlToImage": null,
+            "publishedAt": "2024-02-12T11:27:00Z",
+            "content": null
+        },
+    {
+    "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Emily Shapiro, Leah Sarnoff, Morgan Winsor",
+            "title": "Shooting at Joel Osteen’s Lakewood Church: 2 injured, including a child, armed female suspect killed - ABC News",
+            "description": "A 5-year-old boy was critically wounded, police said.",
+            "url": "https://abcnews.go.com/US/houston-police-shooting-joel-osteen-lakewood-church/story?id=107142052",
+            "urlToImage": "https://i.abcnewsfe.com/a/44ae11ef-afd9-4918-abc0-b9dfc17863b0/lakewood-church-shooting-ht-lv-240211_1707687651566_hpMain_16x9.jpg?w=1600",
+            "publishedAt": "2024-02-12T11:24:11Z",
+            "content": "A woman opened fire with a long gun inside celebrity pastor Joel Osteen's megachurch in Texas on Sunday afternoon before being shot and killed by off-duty police officers, authorities said.\r\nThe arme… [+1411 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Carolina Mandl, Matt Tracy and Saeed Azhar",
+            "title": "Real estate pain for US regional banks is piling up, say investors - Yahoo Finance",
+            "description": "NEW YORK/WASHINGTON (Reuters) -New York Community Bancorp's exposure to commercial real estate has intensified investor scrutiny around regional banks, with ...",
+            "url": "https://finance.yahoo.com/news/real-estate-pain-us-regional-110805456.html",
+            "urlToImage": "https://media.zenfs.com/en/reuters-finance.com/7e5eb4e1e8f1cb49f67c66f403aa2221",
+            "publishedAt": "2024-02-12T11:08:05Z",
+            "content": "(Adds graphic)\r\nBy Carolina Mandl, Matt Tracy and Saeed Azhar\r\nNEW YORK/WASHINGTON (Reuters) -New York Community Bancorp's exposure to commercial real estate has intensified investor scrutiny around … [+5898 chars]"
+        },
+    {
+    "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Jeremy Fowler",
+            "title": "Travis Kelce, an NFL season like no other and the future - ESPN",
+            "description": "The most chronicled figure of the 2023 NFL season held the public's attention until the very end. This is how Kelce reminded us why he matters.",
+            "url": "https://www.espn.com/nfl/story/_/id/39485454/kansas-city-chiefs-tight-end-travis-kelce-super-bowl-2024-season",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0212%2Fr1290257_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-02-12T11:00:00Z",
+            "content": "LAS VEGAS -- Travis Kelce went off script.\r\nAll season, the Kansas City Chiefs' tight end brilliantly balanced touchdowns and tabloids, love and locker rooms, happily juggling his star turn off the f… [+16411 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "HuffPost"
+            },
+            "author": "Lee Moran",
+            "title": "Maj. Michael Haley Hits Back At Donald Trump Slur With Scathing Fact About Animals - Yahoo News",
+            "description": "Nikki Haley's husband, who is currently deployed to Africa, replied to the former president's questions about his whereabouts with a meme.",
+            "url": "https://www.huffpost.com/entry/michael-haley-donald-trump-meme_n_65c9e5c8e4b01f4a8b017092",
+            "urlToImage": "https://media.zenfs.com/en/the_huffington_post_584/cf27ec5f916ffa4166d7e64517ff752c",
+            "publishedAt": "2024-02-12T10:25:43Z",
+            "content": "Maj. Michael Haley, the husband of GOP presidential candidate Nikki Haley, hit back at former President Donald Trumps questioning of his whereabouts with a meme on X, the platform formerly known as T… [+1729 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "Push Square"
+            },
+            "author": "Push Square",
+            "title": "Ultros Review (PS5) - Push Square",
+            "description": "Its ambition is boundless",
+            "url": "https://www.pushsquare.com/reviews/ps5/ultros",
+            "urlToImage": "https://images.pushsquare.com/c7d3fb01186fc/1280x720.jpg",
+            "publishedAt": "2024-02-12T08:00:00Z",
+            "content": "This is already turning into a bumper year for Metroidvania fans. With the excellent Prince of Persia: The Lost Crown having kicked things off beautifully, Ultros now arrives from a smaller publisher… [+5041 chars]"
+        },
+    {
+    "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Famine looms in Sudan - Al Jazeera English",
+            "description": "As war continues unabated in Sudan, an acute food emergency could kill hundreds of thousands of people by next year.",
+            "url": "https://www.aljazeera.com/features/2024/2/12/famine-looms-in-sudan",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/11/2023-09-06T082452Z_1198654636_RC2013ANM0B7_RTRMADP_3_SUDAN-POLITICS-DISPLACEMENT-AID-1699432851.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-02-12T07:23:18Z",
+            "content": "In September, Soulayma Abdel Hay started a soup kitchen in Sudans capital Khartoum. She solicited overseas donations to buy rice, beans and eggs and to cook for hungry families three times a week.\r\nK… [+6315 chars]"
+        },
+    {
+    "source": {
+                "id": null,
+                "name": "CleanTechnica"
+            },
+            "author": "Steve Hanley",
+            "title": "If AMOC Runs Amok, Life In The US & Europe Will Change Dramatically - CleanTechnica",
+            "description": "AMOC, otherwise known as the Gulf Stream, controls the climate in much of the northern hemisphere. What if it stops?",
+            "url": "https://cleantechnica.com/2024/02/12/if-amoc-runs-amok-life-in-the-us-europe-will-change-dramatically/",
+            "urlToImage": "https://cleantechnica.com/wp-content/uploads/2024/02/file-20230502-22-j8ayb1.jpg",
+            "publishedAt": "2024-02-12T06:45:01Z",
+            "content": "Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News!\r\nAMOC — the abbreviation means nothing to most people living along the eastern seaboard of the United States, … [+8718 chars]"
+        }
+    ]
+}
+
